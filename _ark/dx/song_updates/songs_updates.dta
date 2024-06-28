@@ -573,6 +573,10 @@ missing_song_data
    (author
       "Harmonix"
    )
+   (album_name
+      "52nd Street"
+   )
+   (album_track_number 1)
    (extra_authoring disc_update)
 )
 (blackmagicwoman
@@ -717,6 +721,7 @@ missing_song_data
    (author
       "Harmonix"
    )
+   (genre alternative)
    (extra_authoring disc_update)
 )
 (breed
@@ -1920,6 +1925,7 @@ missing_song_data
    (author
       "Harmonix"
    )
+   (genre industrial)
    (extra_authoring disc_update)
 )
 (heartshapedbox
@@ -2832,6 +2838,10 @@ missing_song_data
    (author
       "Harmonix"
    )
+   (album_name
+      "Slippery When Wet"
+   )
+   (album_track_number 3)
    (extra_authoring disc_update)
 )
 (londoncalling
@@ -3151,6 +3161,10 @@ missing_song_data
    (author
       "Harmonix"
    )
+   (album_name
+      "The Stranger"
+   )
+   (album_track_number 1)
    (extra_authoring disc_update)
 )
 (mrcrowley
@@ -3488,6 +3502,10 @@ missing_song_data
    (author
       "Harmonix"
    )
+   (album_name
+      "The Stranger"
+   )
+   (album_track_number 6)
    (extra_authoring disc_update)
 )
 (onlythelonely
@@ -4223,6 +4241,10 @@ missing_song_data
    (author
       "Harmonix"
    )
+   (album_name
+      "Bon Jovi"
+   )
+   (album_track_number 1)
    (extra_authoring disc_update)
 )
 (santamonica
@@ -5016,6 +5038,10 @@ missing_song_data
    (author
       "Harmonix"
    )
+   (album_name
+      "Toys in the Attic"
+   )
+   (album_track_number 6)
    (extra_authoring disc_update)
 )
 (sweethomealabamalive
@@ -6056,6 +6082,10 @@ missing_song_data
    (author
       "Harmonix"
    )
+   (album_name
+      "Slippery When Wet"
+   )
+   (album_track_number 5)
    (extra_authoring disc_update)
 )
 (wearethechampions2
@@ -6345,6 +6375,10 @@ missing_song_data
    (author
       "Harmonix"
    )
+   (album_name
+      "Slippery When Wet"
+   )
+   (album_track_number 2)
    (extra_authoring disc_update)
 )
 (yourbetrayal
@@ -6774,32 +6808,6 @@ missing_song_data
    (format 10)
    (game_origin rb1_dlc)
    (rating 2)
-   (alternate_path 1)
-)
-(rocknrolldream
-   (version 1)
-   (year_released 2008)
-   (album_name
-      "Adrenaline"
-   )
-   (album_track_number 7)
-   (vocal_tonic_note 9)
-   (song_tonality 1)
-   (author
-      "Harmonix"
-   )
-   (song
-      (vocal_parts 2)
-   )
-   (extra_authoring disc_update)
-   (song_id 1005134)
-   (song_length 206363)
-   (solo
-      (guitar vocal_percussion)
-   )
-   (format 10)
-   (game_origin rb1_dlc)
-   (rating 1)
    (alternate_path 1)
 )
 (backinblack_live
@@ -9409,6 +9417,7 @@ missing_song_data
    (artist
       "Tijuana Sweetheart"
    )
+   (genre punk)
    (song
       (vocal_parts 2)
    )
@@ -9568,6 +9577,7 @@ missing_song_data
    (author
       "Harmonix"
    )
+   (genre industrial)
    (song
       (vocal_parts 3)
       (tracks
@@ -10519,6 +10529,7 @@ missing_song_data
    (author
       "Harmonix"
    )
+   (genre rock)
    (song
       (vocal_parts 3)
    )
@@ -10786,6 +10797,7 @@ missing_song_data
    (author
       "Harmonix"
    )
+   (genre new_wave)
    (song
       (vocal_parts 3)
    )
@@ -11986,6 +11998,7 @@ missing_song_data
    (author
       "Harmonix"
    )
+   (genre rock)
    (song
       (vocal_parts 3)
    )
@@ -12976,6 +12989,7 @@ missing_song_data
    (author
       "Harmonix"
    )
+   (genre industrial)
    (album_name
       "Natural Born Killers: A Soundtrack for an Oliver Stone Film"
    )
@@ -13089,6 +13103,7 @@ missing_song_data
    (author
       "Harmonix"
    )
+   (genre new_wave)
    (song
       (vocal_parts 3)
    )
@@ -13495,6 +13510,7 @@ missing_song_data
    (author
       "Harmonix"
    )
+   (genre industrial)
    (song
       (vocal_parts 3)
    )
@@ -13711,6 +13727,7 @@ missing_song_data
    (author
       "Harmonix"
    )
+   (genre alternative)
    (song
       (vocal_parts 3)
    )
@@ -13981,6 +13998,7 @@ missing_song_data
    (author
       "Harmonix"
    )
+   (genre industrial)
    (song
       (vocal_parts 3)
    )
@@ -14133,6 +14151,7 @@ missing_song_data
    (author
       "Harmonix"
    )
+   (genre industrial)
    (extra_authoring disc_update)
    (song_id 1005056)
    (preview 125387 155387)
@@ -14696,6 +14715,7 @@ missing_song_data
    (author
       "Harmonix"
    )
+   (genre indierock)
    (song
       (vocal_parts 2)
    )
@@ -15282,6 +15302,7 @@ missing_song_data
    (author
       "Harmonix"
    )
+   (genre new_wave)
    (song
       (vocal_parts 3)
       (tracks
@@ -16184,6 +16205,7 @@ missing_song_data
    (author
       "Harmonix"
    )
+   (genre rock)
    (song
       (vocal_parts 3)
    )
@@ -17807,6 +17829,7 @@ missing_song_data
    (author
       "Harmonix"
    )
+   (year_released 2009)
    (song
       (vocal_parts 2)
    )
@@ -17914,6 +17937,7 @@ missing_song_data
    (author
       "Harmonix"
    )
+   (genre new_wave)
    (song
       (vocal_parts 3)
       (tracks
@@ -19167,6 +19191,7 @@ missing_song_data
    (author
       "Harmonix"
    )
+   (genre alternative)
    (song
       (vocal_parts 2)
    )
@@ -19431,6 +19456,7 @@ missing_song_data
    (author
       "Harmonix"
    )
+   (genre rock)
    (song
       (vocal_parts 2)
    )
@@ -20373,6 +20399,7 @@ missing_song_data
    (author
       "Harmonix"
    )
+   (genre new_wave)
    (song
       (vocal_parts 2)
       (tracks
@@ -21130,6 +21157,7 @@ missing_song_data
    (name
       "Joker & the Thief"
    )
+   (genre hardrock)
    (song
       (vocal_parts 3)
       (tracks
@@ -21356,6 +21384,7 @@ missing_song_data
    (author
       "Harmonix"
    )
+   (genre new_wave)
    (song
       (vocal_parts 3)
    )
@@ -21715,6 +21744,7 @@ missing_song_data
    (author
       "Harmonix"
    )
+   (genre industrial)
    (song
       (vocal_parts 3)
    )
@@ -22896,6 +22926,7 @@ missing_song_data
    (author
       "Harmonix"
    )
+   (genre industrial)
    (song
       (vocal_parts 2)
       (tracks
@@ -23352,6 +23383,7 @@ missing_song_data
    (author
       "Harmonix"
    )
+   (genre alternative)
    (song
       (vocal_parts 2)
       (tracks
@@ -23784,6 +23816,7 @@ missing_song_data
    (author
       "Harmonix"
    )
+   (genre new_wave)
    (extra_authoring disc_update)
    (song_id 1005114)
    (song_length 313636)
@@ -23941,6 +23974,7 @@ missing_song_data
    (author
       "Harmonix"
    )
+   (genre new_wave)
    (song
       (vocal_parts 3)
       (tracks
@@ -24442,6 +24476,7 @@ missing_song_data
    (author
       "Harmonix"
    )
+   (genre hardrock)
    (song
       (vocal_parts 3)
    )
@@ -25242,6 +25277,7 @@ missing_song_data
    (author
       "Harmonix"
    )
+   (genre hiphoprap)
    (song
       (vocal_parts 3)
    )
@@ -25553,6 +25589,7 @@ missing_song_data
    (author
       "Harmonix"
    )
+   (genre industrial)
    (album_name
       "Lost Highway"
    )
@@ -25774,6 +25811,7 @@ missing_song_data
    (author
       "Harmonix"
    )
+   (genre hardrock)
    (song
       (vocal_parts 3)
    )
@@ -27044,6 +27082,7 @@ missing_song_data
    (author
       "Harmonix"
    )
+   (genre rock)
    (song
       (vocal_parts 3)
    )
@@ -27307,6 +27346,32 @@ missing_song_data
    (song_length 205000)
    (format 10)
    (game_origin rb1_dlc)
+)
+(rocknrolldream
+   (vocal_tonic_note 9)
+   (song_tonality 1)
+   (author
+      "Harmonix"
+   )
+   (version 1)
+   (year_released 2009)
+   (album_name
+      "Crooked X"
+   )
+   (album_track_number 4)
+   (song
+      (vocal_parts 2)
+   )
+   (extra_authoring disc_update)
+   (song_id 1005134)
+   (song_length 206363)
+   (solo
+      (guitar vocal_percussion)
+   )
+   (format 10)
+   (game_origin rb1_dlc)
+   (rating 1)
+   (alternate_path 1)
 )
 (rocknrollhighschool
    (vocal_tonic_note 0)
@@ -30132,6 +30197,12 @@ missing_song_data
    (author
       "Harmonix"
    )
+   (artist
+      "Stray Cats"
+   )
+   (album_name
+      "Stray Cats"
+   )
    (song
       (vocal_parts 3)
    )
@@ -30451,6 +30522,7 @@ missing_song_data
    (author
       "Harmonix"
    )
+   (genre hardrock)
    (extra_authoring disc_update)
    (song_length 230000)
    (solo
@@ -30646,9 +30718,11 @@ missing_song_data
    (author
       "Harmonix"
    )
+   (year_released 1981)
    (album_name
       "Sweetness and Light"
    )
+   (album_track_number 8)
    (song
       (vocal_parts 2)
    )
@@ -34477,6 +34551,7 @@ missing_song_data
    (author
       "Harmonix"
    )
+   (genre rock)
    (song
       (vocal_parts 3)
    )
@@ -34541,6 +34616,7 @@ missing_song_data
    (author
       "Harmonix"
    )
+   (genre hardrock)
    (song
       (vocal_parts 2)
    )
@@ -34972,6 +35048,7 @@ missing_song_data
    (author
       "Harmonix"
    )
+   (genre hardrock)
    (extra_authoring disc_update)
    (song_length 175000)
    (format 10)
@@ -35452,6 +35529,7 @@ missing_song_data
    (author
       "Harmonix"
    )
+   (genre new_wave)
    (song
       (vocal_parts 3)
       (tracks
@@ -39454,6 +39532,9 @@ missing_song_data
       "Harmonix"
    )
    (genre metal)
+   (album_name
+      "Back from the Dead"
+   )
    (extra_authoring disc_update)
    (preview 127974 157974)
    (song_length 399545)
@@ -41102,6 +41183,10 @@ missing_song_data
    (author
       "Harmonix"
    )
+   (album_name
+      "Rocks"
+   )
+   (album_track_number 1)
    (extra_authoring disc_update)
    (upgrade_version 1)
    (rank
@@ -41144,6 +41229,10 @@ missing_song_data
    (author
       "Harmonix"
    )
+   (album_name
+      "New Jersey"
+   )
+   (album_track_number 2)
 )
 (bandontherun
    (game_origin rb3dlc)
@@ -41197,6 +41286,13 @@ missing_song_data
    (author
       "Harmonix"
    )
+   (artist
+      "Jon Bon Jovi"
+   )
+   (album_name
+      "Blaze of Glory"
+   )
+   (album_track_number 3)
    (extra_authoring disc_update)
 )
 (blowuptheoutsideworld
@@ -41409,6 +41505,7 @@ missing_song_data
    (author
       "Harmonix"
    )
+   (genre numetal)
    (extra_authoring disc_update)
 )
 (comedown
@@ -41965,6 +42062,10 @@ missing_song_data
    (author
       "Harmonix"
    )
+   (album_name
+      "Have a Nice Day"
+   )
+   (album_track_number 1)
 )
 (headoverheels
    (game_origin rb3dlc)
@@ -42153,6 +42254,10 @@ missing_song_data
    (author
       "Harmonix"
    )
+   (album_name
+      "New Jersey"
+   )
+   (album_track_number 10)
 )
 (imalright
    (game_origin rb3dlc)
@@ -42287,6 +42392,10 @@ missing_song_data
    (author
       "Harmonix"
    )
+   (album_name
+      "Glass Houses"
+   )
+   (album_track_number 4)
 )
 (iwanttoknowwhatloveis
    (game_origin rb3dlc)
@@ -42435,6 +42544,10 @@ missing_song_data
    (author
       "Harmonix"
    )
+   (album_name
+      "New Jersey"
+   )
+   (album_track_number 1)
    (extra_authoring disc_update)
 )
 (leftbehind
@@ -43046,6 +43159,10 @@ missing_song_data
    (author
       "Harmonix"
    )
+   (album_name
+      "Piano Man"
+   )
+   (album_track_number 2)
    (extra_authoring disc_update)
 )
 (pleasedontleaveme
@@ -43073,6 +43190,10 @@ missing_song_data
    (author
       "Harmonix"
    )
+   (album_name
+      "The Nylon Curtain"
+   )
+   (album_track_number 3)
 )
 (pressure2
    (game_origin rb3dlc)
@@ -43260,6 +43381,7 @@ missing_song_data
    (author
       "Harmonix"
    )
+   (genre indierock)
    (extra_authoring disc_update)
    (upgrade_version 1)
    (rank
@@ -43291,6 +43413,7 @@ missing_song_data
    (author
       "Harmonix"
    )
+   (genre industrial)
    (extra_authoring disc_update)
 )
 (satellite
@@ -43569,6 +43692,7 @@ missing_song_data
    (author
       "Harmonix"
    )
+   (genre alternative)
    (extra_authoring disc_update)
 )
 (soulkitchen
@@ -43766,6 +43890,7 @@ missing_song_data
    (author
       "Harmonix"
    )
+   (genre industrial)
    (extra_authoring disc_update)
 )
 (thatshowcountryboysroll2
@@ -43820,6 +43945,10 @@ missing_song_data
    (author
       "Harmonix"
    )
+   (album_name
+      "Streetlife Serenade"
+   )
+   (album_track_number 1)
 )
 (thegoodlife
    (game_origin rb3dlc)
@@ -43864,6 +43993,7 @@ missing_song_data
    (author
       "Harmonix"
    )
+   (genre industrial)
    (extra_authoring disc_update)
 )
 (thepartysong
@@ -44022,6 +44152,7 @@ missing_song_data
    (author
       "Harmonix"
    )
+   (genre alternative)
    (extra_authoring disc_update)
 )
 (verdamplangher
@@ -44073,6 +44204,10 @@ missing_song_data
    (author
       "Harmonix"
    )
+   (album_name
+      "Toys in the Attic"
+   )
+   (album_track_number 4)
    (extra_authoring disc_update)
    (upgrade_version 1)
    (rank
@@ -44105,6 +44240,10 @@ missing_song_data
    (author
       "Harmonix"
    )
+   (album_name
+      "Storm Front"
+   )
+   (album_track_number 2)
    (extra_authoring disc_update)
 )
 (welcometothefamily
@@ -44119,6 +44258,10 @@ missing_song_data
    (author
       "Harmonix"
    )
+   (album_name
+      "The Circle"
+   )
+   (album_track_number 1)
    (extra_authoring disc_update)
 )
 (whatigot
@@ -44148,6 +44291,10 @@ missing_song_data
    (author
       "Harmonix"
    )
+   (album_name
+      "Have a Nice Day"
+   )
+   (album_track_number 13)
    (extra_authoring disc_update)
 )
 (whycantwebefriends
@@ -44207,6 +44354,10 @@ missing_song_data
    (author
       "Harmonix"
    )
+   (album_name
+      "Glass Houses"
+   )
+   (album_track_number 1)
    (extra_authoring disc_update)
 )
 (youngamericans
@@ -44395,6 +44546,7 @@ missing_song_data
    (author
       "Harmonix"
    )
+   (genre alternative)
    (extra_authoring disc_update)
    (upgrade_version 1)
    (rank
@@ -50611,6 +50763,7 @@ missing_song_data
    (author
       "WaveGroup"
    )
+   (genre rockabilly)
    (extra_authoring disc_update)
    (upgrade_version 1)
 )
@@ -51091,6 +51244,7 @@ missing_song_data
    (author
       "WaveGroup"
    )
+   (genre rockabilly)
    (extra_authoring disc_update)
    (upgrade_version 1)
 )
@@ -64153,9 +64307,6 @@ missing_song_data
    (extra_authoring disc_update)
 )
 (onebigholiday
-   (extra_authoring disc_update)
-)
-(one
    (extra_authoring disc_update)
 )
 (pride
